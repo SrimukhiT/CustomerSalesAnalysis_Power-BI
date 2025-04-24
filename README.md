@@ -5,7 +5,7 @@
 
 This project presents a comprehensive analysis of customer sales using Power BI. It includes data transformation, interactive visualizations, SQL integration, and insights generation.
 
-##Tools Used
+##Tools Used##
 
 -Power BI
 
@@ -56,4 +56,4 @@ This project presents a comprehensive analysis of customer sales using Power BI.
 
 *Credits
 
-Dataset sourced from [YouTube][hyyps://https://youtu.be/hhZ62IlTxYs?si=n3lrqWJX8v_Nzoge]  CodeBasics (YouTube channel). Used for educational purposes.
+Dataset sourced from [YouTube][https://youtu.be/hhZ62IlTxYs?si=n3lrqWJX8v_Nzoge]  CodeBasics (YouTube channel). Used for educational purposes.
