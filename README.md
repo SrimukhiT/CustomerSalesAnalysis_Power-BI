@@ -1,11 +1,11 @@
 # CustomerSalesAnalysis_Power-BI
 # **Customer Sales Analysis (Power BI Project)**
 
-##Overview
+## Overview
 
 This project presents a comprehensive analysis of customer sales using Power BI. It includes data transformation, interactive visualizations, SQL integration, and insights generation.
 
-##Tools Used##
+## Tools Used
 
 -Power BI
 
@@ -18,7 +18,7 @@ This project presents a comprehensive analysis of customer sales using Power BI.
 -Microsoft Excel (for raw data)
 
 
-##Key Features
+## Key Features
 
 -Dashboard with KPIs and interactive visuals
 
@@ -31,7 +31,7 @@ This project presents a comprehensive analysis of customer sales using Power BI.
 -DAX measures for calculated fields and insights
 
 
-##Files Included
+## Files Included
 
 -CustomerSalesPortfolio.pdf – Complete project explanation with screenshots
 
@@ -42,7 +42,7 @@ This project presents a comprehensive analysis of customer sales using Power BI.
 -Datasets_Credits.txt – Credit for dataset source
 
 
-##How to Use
+## How to Use
 
 1. Open the .pbix file in Power BI Desktop to explore the dashboard
 
