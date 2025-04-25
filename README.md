@@ -16,6 +16,7 @@ This project presents a comprehensive analysis of customer sales using Power BI.
 
 -DAX (Data Analysis Expressions)
 
+-Excel(for raw data)
 
 
 
