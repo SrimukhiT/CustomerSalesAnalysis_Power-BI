@@ -1,5 +1,4 @@
 **SQL Queries**
-
 # Basic SELECT Queries from Tables
 
 -- Selecting all data from the date table
@@ -19,7 +18,6 @@ SELECT * FROM sales.customers;
 
 
 ---
-
 # Aggregate Query – Total Sales in 2020
 
 -- Total sales amount for the year 2020
@@ -58,9 +56,7 @@ WHERE date.year = 2020
 
 ---
 
-# Selecting distinct market codes from transactions
-SELECT DISTINCT market_code
-FROM sales.transactions;
+# Selecting distinct market codes from transactions SELECT DISTINCT market_code FROM sales.transactions;
 
 
 ---
