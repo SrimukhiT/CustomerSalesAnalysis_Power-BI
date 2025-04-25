@@ -1,6 +1,6 @@
-# SQL Queries
+**SQL Queries**
 
-## 1. Basic SELECT Queries from Tables
+## Basic SELECT Queries from Tables
 
 -- Selecting all data from the date table
 SELECT * FROM sales.date;
@@ -20,7 +20,7 @@ SELECT * FROM sales.customers;
 
 ---
 
-## 2. Aggregate Query – Total Sales in 2020
+## Aggregate Query – Total Sales in 2020
 
 -- Total sales amount for the year 2020
 SELECT SUM(transactions.sales_amount)
@@ -32,7 +32,7 @@ WHERE date.year = 2020;
 
 ---
 
-## 3. Aggregate Query with Currency Filter
+## Aggregate Query with Currency Filter
 
 -- Total sales amount in 2020 for currencies INR\r or USD\r
 SELECT SUM(transactions.sales_amount)
@@ -45,7 +45,7 @@ WHERE date.year = 2020
 
 ---
 
-## 4. Filtered Query by Year and Market Code
+## Filtered Query by Year and Market Code
 
 -- Selecting transactions from the year 2020 with MarketCode 'Mark001'
 SELECT *
