@@ -1,4 +1,5 @@
 # CustomerSalesAnalysis_Power-BI
+
 # **Customer Sales Analysis (Power BI Project)**
 
 ## Overview
@@ -15,7 +16,7 @@ This project presents a comprehensive analysis of customer sales using Power BI.
 
 -DAX (Data Analysis Expressions)
 
--Microsoft Excel (for raw data)
+
 
 
 ## Key Features
