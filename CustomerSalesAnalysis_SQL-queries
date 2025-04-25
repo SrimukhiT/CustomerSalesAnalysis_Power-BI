@@ -1,4 +1,4 @@
-** SQL Queries **
+**SQL Queries**
 
 # Basic SELECT Queries from Tables
 
@@ -54,5 +54,21 @@ INNER JOIN sales.date
     ON transactions.order_date = date.date
 WHERE date.year = 2020
   AND transactions.market_code = 'Mark001';
+
+
+---
+
+# Selecting distinct market codes from transactions
+SELECT DISTINCT market_code
+FROM sales.transactions;
+
+
+---
+
+# Selecting the top 5 customers with the highest sales amounts
+SELECT customer_name, sales_amount
+FROM sales.transactions
+ORDER BY sales_amount DESC
+LIMIT 5;
 
 
