@@ -56,7 +56,8 @@ WHERE date.year = 2020
 
 ---
 
-# Selecting distinct market codes from transactions SELECT DISTINCT market_code FROM sales.transactions;
+# Selecting distinct market codes from transactions
+SELECT DISTINCT market_code FROM sales.transactions;
 
 
 ---
